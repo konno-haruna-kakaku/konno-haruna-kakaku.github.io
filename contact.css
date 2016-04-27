@@ -1,5 +1,10 @@
+header {
+	padding: .5em .75em;
+	background-color: #d8b2ff;
+}
+
 body {
-  background-color: #e0ffff;
+  background-color: #2e2e2e;
 }
 
 
@@ -26,4 +31,8 @@ nav ul li a {
   text-decoration: none;
   color: #999;
   font-weight: bold;
+}
+
+span.white {
+  color: white;
 }
